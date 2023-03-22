@@ -1,0 +1,1 @@
+Random joke generate from shell
